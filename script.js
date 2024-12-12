@@ -19,7 +19,7 @@ else{
 }
 
 //Takes input and prints it.
-let input=prompt("Enter the Word -");
+let input=prompt("Enter the Word (rock,paper,scissor)-");
 console.log("You entered: "+ input);
 
 if(input==="rock"||input==="Rock"||input=="paper"||input=="Paper"||input=="scissors"||input=="Scissors"||input=="scissor"||input=="Scissor"){
